@@ -1,0 +1,63 @@
+Bio.pl is a personal library with various utilities for
+
+	Biological sequence analysis. It also contains a lot of
+	utilies for file, array, hash etc. Subroutines are very
+	general and you can easily copy them to your own perl
+	codes.
+
+	To use, you can search for keywords to get some useful
+	subroutines.
+
+
+	Version: 1.3
+
+#______________________________________________________________________
+# Title     : Bio
+# Usage     : require "Bio.pl"; ##<-- This is very slow, so you'd better
+#             copy the subroutines in your prog. or make a smaller lib files
+#               which are classified according to functions(like, Bio_Seq.pl
+#               for sequence handling, Bio_Array.pl for various array
+#               subroutines..), or make your own module out of this, do whatever
+#               you want....
+# Function  : This has all the sub routines A Biomatic has developed.
+#             You can copy any of the sub routines in this file, modify, use
+#             in yours...
+#             Use Bio.pm if you want to use bio_lib.pl as a module and want
+#             to call its subroutines by 'use Bio' in your code.
+#             PLEASE MODIFY AS FREELY AS YOU WANT !!
+#
+#             " I am the programmer and I will try to debug with all my
+#             efforts if you have any problems with my codes."
+#
+#             All my subroutines are tested in small files which test
+#             the subroutines. If you want to have such single example program
+#             to see how they really work, pls contact me( A Biomatic )
+#             For example, a file called  'handle_arguments.pl' exists to
+#             test the subroutine 'handle_arguments'.
+#
+#             for Bioperl project(the open project anybody can participate in)
+#             The newest version of B.pl is in:
+#             ftp://ftp.mrc-cpe.cam.ac.uk/pub/jong/Bioperl
+#
+# Example   : require "Bio.pl";
+# Warning   : CopyLEFTed, and for the enhancement of Biology and Science.
+#             This is a development companion, nothing else.
+# Class     : Bio
+#             Class is for classification of my subroutines. If it is B, it can
+#             be useful for biological sequence data handling. If it's Utility,
+#             it can also be used for general purpose file handling stuff.
+#             File, Array, Hash,... are my classification items.
+# Keywords  : Biology, sequence handling,
+# Options   : nothing (used as subroutine library)
+# Reference : http://sonja.acad.cai.cam.ac.uk/perl_for_bio.html
+# Returns   : nothing (used as subroutine library)
+# Tips      :
+# Argument  : nothing (used as subroutine library)
+# Todo      : Objects out of this.
+# Author    : A Biomatic  and many others. Send me your codes to me!
+# Version   : 1.3    (17th/10/1996)
+# Used in   :
+# Enclosed  : None
+#------------------------------------------------------------------
+
+

@@ -1,0 +1,36 @@
+This is the readme file for bio_lib.pl subroutine library.
+
+(L) CopyLEFT notice.
+
+bio_lib.pl is a file which contains various subroutines 
+made by jong and others. It is free, freely copiable, modifiable,
+distributable, claimable that you wrote them after you change
+one single line(all codes originated by jong other codes given
+by others will bear copyright notice if they have instructed me
+to do so). 
+
+I mean it is a real public like oxygen, I would not claim a puff
+of air is mine as it has been though my body and brain, and went 
+through chemical reaction in my blood. As far as I am concerned
+accumulated knowledge of humans is like air. 
+
+It is not a registered or publically announced perl module for
+standard coding for Biologists and Computer scientists
+in Bioinformatics field. It is just a lib where you may
+fish something useful as that was what I did for long from
+others. When I organize these subs later or any people can
+formulate a good standard for object oriented Bioperl module, I
+will change these into the more standard form if it really
+helps more people reuse perl routines developed in your
+field.
+
+Comments and your codes to  jong@mrc-lmb.cam.ac.uk
+
+I will continuously collect any subroutines you send me to
+this.
+
+http://www.mrc-cpe.cam.ac.uk/cpe/jong/perl_for_bio.htm
+
+ftp://ftp.mrc-cpe.cam.ac.uk/pub/jong/perl/  as bio_lib.pl
+
+
